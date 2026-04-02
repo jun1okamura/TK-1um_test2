@@ -39,7 +39,7 @@ The project is configured via `info.yaml`.
 
 Key fields:
 
-- `gds.top_cell` : top cell name (must match GDS)
+- `gds.top_cell`  : top cell name (must match GDS)
 - `gds.extension` : layout file extension
 - `lvs.extension` : netlist file extension
 - `lvs.netlist_only` : enable/disable LVS comparison
